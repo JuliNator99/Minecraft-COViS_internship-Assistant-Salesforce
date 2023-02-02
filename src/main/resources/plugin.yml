@@ -1,6 +1,6 @@
 main: me.julinator99.assistant.salesforce.AssistantSalesforce
 name: SalesforceAssistant
-version: 0.1.0
+version: 0.1.1
 description: A simple toy to test Salesforce integration in Minecraft.
 api-version: 1.19
 load: POSTWORLD

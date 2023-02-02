@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COViSInternship - Salesforce">
+    <output-path>C:/Minecraft/MinecraftServerPile/Praktikum - Salesforce Server/_plugins</output-path>
+    <root id="archive" name="COViSInternship - Salesforce.jar">
+      <element id="module-output" name="assistant-salesforce" />
+      <element id="module-source" name="assistant-salesforce" />
+    </root>
+  </artifact>
+</component>
