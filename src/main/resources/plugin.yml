@@ -1,0 +1,12 @@
+main: me.julinator99.assistant.salesforce.AssistantSalesforce
+name: SalesforceAssistant
+version: 0.1.0
+description: A simple toy to test Salesforce integration in Minecraft.
+api-version: 1.19
+load: POSTWORLD
+author: JuliNator99 (juli.schwers@gmail.com)
+depend:
+   - KotlinLibrary
+   - CommandAPI
+   - EssentialsLibrary
+   - PlotAssistant
